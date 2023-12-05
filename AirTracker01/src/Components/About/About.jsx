@@ -12,15 +12,15 @@ export default function About() {
                />
             </div>
             <div className="w-full md:w-1/2 mt-6 md:mt-8 p-5">
-               <h2 className="text-3xl font-bold mb-4">About Tevel and Flight Booking</h2>
+               <h2 className="text-3xl font-bold mb-4">About Travel and Flight Booking</h2>
                <p className="text-gray-700 mb-4">
-                  Tevel and Flight Booking is your go-to platform for seamless travel and flight
+                  Travel and Flight Booking is your go-to platform for seamless travel and flight
                   reservations. Whether you're planning a relaxing vacation or a business trip, we
                   provide a hassle-free experience from start to finish.
                </p>
                <p className="text-gray-700 mb-4">
                   Our mission is to make travel accessible to everyone by offering a wide range of
-                  travel cards and services. With Tevel and Flight Booking, your journey begins with
+                  travel cards and services. With Travel and Flight Booking, your journey begins with
                   convenience and ends with unforgettable experiences.
                </p>
             </div>
